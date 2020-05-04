@@ -1,0 +1,51 @@
+/* add your CSS here */
+span {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-left: 0;
+}
+
+.outer {
+  border: 1.5px solid gainsboro;
+  margin: 3px;
+  width: 300px;
+  padding: 12px;
+  background-color: seashell;
+  box-shadow: 8px 8px 4px gainsboro;
+}
+
+.ani_name {
+  border: 1px solid seashell;
+  margin-bottom: 20px;
+}
+
+.ani_img {
+  border: 1px solid seashell;
+  margin-bottom: 3px;
+}
+
+.ani_info {
+  width: 273px;
+  border: 1.5px solid gainsboro;
+  padding: 8px 12px;
+  margin: 12px 0;
+}
+
+.int_fact {
+  border: 1px solid seashell;
+  font-style: italic;
+}
+
+.fact_list {
+  border: 1px solid seashell;
+}
+
+.description {
+  border: 1px solid seashell;
+}
